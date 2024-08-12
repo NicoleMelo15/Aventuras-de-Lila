@@ -13,7 +13,7 @@ Fase 1
 
 Bem-vindo ao repositório oficial do jogo Aventuras de Lila! 🌟
 
-Aventuras de Lila é um jogo desenvolvido como parte do meu Trabalho de Conclusão de Curso (TCC) em Ciência da Computação. Neste jogo, você acompanhará Lila em uma emocionante jornada por mundos fantásticos, enfrentando desafios e resolvendo enigmas para salvar sua mestra.
+Aventuras de Lila é um jogo desenvolvido como parte do meu Trabalho de Conclusão de Curso (TCC) em Ciência da Computação. Neste jogo, você acompanhará Lila em uma emocionante jornada por mundos fantásticos e enfrentando desafios para salvar sua mestra.
 
 🎮 Como Jogar
 
