@@ -4,9 +4,11 @@ Projeto de TCC - Jogo Aventuras de Lila
 Aventuras de Lila
 
 Menu Inicial
+
 ![Menu Inicial](https://github.com/NicoleMelo15/Aventuras-de-Lila/blob/main/menu_inicial.png)
 
 Fase 1
+
 ![Fase 1](https://github.com/NicoleMelo15/Aventuras-de-Lila/blob/main/fase_1.png)
 
 Bem-vindo ao repositório oficial do jogo Aventuras de Lila! 🌟
